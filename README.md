@@ -1,10 +1,10 @@
 # Supply-Chain-Analysis-using-Python
 
-#The supply Chain is the network of production and logistics involved in producing and delivering goods to customers. And Supply Chain Analysis means analyzing various components of a Supply Chain to understand how to improve the effectiveness of the Supply Chain to create more value for customers.
+The supply Chain is the network of production and logistics involved in producing and delivering goods to customers. And Supply Chain Analysis means analyzing various components of a Supply Chain to understand how to improve the effectiveness of the Supply Chain to create more value for customers.
 
-#To analyze a company’s supply chain, we need data on the different stages of the supply chain, like data about sourcing, manufacturing, transportation, inventory management, sales and customer demographics.
+To analyze a company’s supply chain, we need data on the different stages of the supply chain, like data about sourcing, manufacturing, transportation, inventory management, sales and customer demographics.
 
-#Dataset for this task which includes data about the supply chain of a Fashion and Beauty startup.
+Dataset for this task which includes data about the supply chain of a Fashion and Beauty startup.
 
 1. Importing the necessary Python libraries and the dataset
 
