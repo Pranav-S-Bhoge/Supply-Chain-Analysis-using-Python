@@ -64,7 +64,7 @@
    So the company is using three carriers for transportation, and Carrier B helps the company in generating more revenue.
    
 
-6. Now let’s have a look at the Average lead time and Average Manufacturing Costs for all products of the company
+5. Now let’s have a look at the Average lead time and Average Manufacturing Costs for all products of the company
 
        avg_lead_time = data.groupby('Product type')['Lead time'].mean().reset_index()
        avg_manufacturing_costs = data.groupby('Product type')['Manufacturing costs'].mean().reset_index()
@@ -73,7 +73,7 @@
        print(result)
 
 
-7. Analyzing SKUs
+6. Analyzing SKUs
 
 There’s a column in the dataset as SKUs. You must have heard it for the very first time. So, SKU stands for 'Stock Keeping Units'. They’re like special codes that help companies keep track of all the different things they have for sale. Imagine you have a large toy store with lots of toys. Each toy is different and has its name and price, but when you want to know how many you have left, you need a way to identify them. So you give each toy a unique code, like a secret number only the store knows. This secret number is called SKU.
 
@@ -99,7 +99,7 @@ Now let’s have a look at the order quantity of each SKU
        order_quantity_chart.show()
        
 
-8. Cost Analysis
+7. Cost Analysis
 
 Now let’s analyze the shipping cost of Carriers
 
@@ -123,7 +123,7 @@ Now let’s have a look at the cost distribution by transportation mode
    So the company spends more on Road and Rail modes of transportation for the transportation of Goods.
 
 
-9. Analyzing Defect Rate
+8. Analyzing Defect Rate
    
 The defect rate in the supply chain refers to the percentage of products that have something wrong or are found broken after shipping. 
 
